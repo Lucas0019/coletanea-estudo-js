@@ -6,11 +6,11 @@ O ínicio da sua jornada para ingressar no mundo da programação com um curso G
 
 ### O que estudaremos:
 
-- [] DIA 1 - JavaScript Básico, Variáveis e Comparando Variáveis
-- [] DIA 2 - Trabalhando com decisões lógicas
-- [] DIA 3 - Arrays
-- [] DIA 4 - Loops
-- [] DIA 5 - Loops - continuação
-- [] DIA 6 - Funções
-- [] DIA 7 - Fazendo Loops em Arrays
-- [] DIA 8 - Conclusão
+- [x] DIA 1 - JavaScript Básico, Variáveis e Comparando Variáveis
+- [x] DIA 2 - Trabalhando com decisões lógicas
+- [x] DIA 3 - Arrays
+- [x] DIA 4 - Loops
+- [x] DIA 5 - Loops - continuação
+- [x] DIA 6 - Funções
+- [x] DIA 7 - Fazendo Loops em Arrays
+- [x] DIA 8 - Conclusão
